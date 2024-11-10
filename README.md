@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: /ˈtoʊlɪŋ/
 - ⚡ Fun fact: (maybe not at the moment)
 -->
+- 🔭 I’m currently working on high school curriculum.
+- 🌱 I’m currently learning C++.
+- - 💬 Ask me about anything you want.
+- 📫 How to reach me: 1649160665@qq.com
+- 😄 Pronouns: /ˈtoʊlɪŋ/
