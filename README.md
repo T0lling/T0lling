@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on high school curriculum.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate on ...(maybe not at the moment)
 - 🤔 I’m looking for help with ...(maybe not at the moment)
 - 💬 Ask me about anything you want.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: (maybe not at the moment)
 -->
 - 🔭 I’m currently working on high school curriculum.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning everything.
 - - 💬 Ask me about anything you want.
 - 📫 How to reach me: 1649160665@qq.com
 - 😄 Pronouns: /ˈtoʊlɪŋ/
